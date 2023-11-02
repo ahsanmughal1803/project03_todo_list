@@ -1,0 +1,26 @@
+{
+  "name": "todo-list",
+  "types": "module",
+  "version": "1.0.0",
+  "description": "A simple todo list project in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Faiza Mughal",
+  "license": "MIT",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "and": "^0.0.3",
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0",
+    "inquirer": "^9.2.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6",
+    "@types/node": "^20.8.10"
+  }
+}
